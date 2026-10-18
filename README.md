@@ -1,4 +1,4 @@
-#superstore sales analysis -2024
+#super store sales analysis -2024
 
 ##About 
 This project analyzes superstore sales data using python 
